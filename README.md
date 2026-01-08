@@ -61,6 +61,17 @@ Run the example scripts to explore the API:
     python src/scripts/06_recipe.py --id=<recipe_id>
     ```
 
+*   **List ingredient categories:**
+    ```bash
+    python src/scripts/07_ingredient_categories.py
+    ```
+
+*   **Search ingredients:**
+    ```bash
+    python src/scripts/08_ingredients.py --q="chicken"
+    python src/scripts/08_ingredients.py --category="Vegetables"
+    ```
+
 ## Project Structure
 
 *   `src/client.py`: API client configuration and request handling
