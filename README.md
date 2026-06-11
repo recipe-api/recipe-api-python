@@ -23,7 +23,7 @@ This is a Python starter kit for the [Recipe API](https://recipe-api.com). It in
 
 4.  **Configure API Key:**
     *   Copy `.env.example` to `.env`
-    *   Get your API key from [recipe-api.com](https://recipe-api.com)
+    *   Get your free API key (no card) at [recipe-api.com/signup](https://recipe-api.com/signup)
     *   Add it to `.env`: `RECIPE_API_KEY=rapi_...`
 
 ## Usage
